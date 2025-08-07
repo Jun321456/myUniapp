@@ -1,0 +1,1 @@
+<button bindtap="{{a}}" class="share-button data-v-8e058796"> 分享我的宠物 </button>

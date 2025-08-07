@@ -1,0 +1,18 @@
+
+.pet-card.data-v-064edc18 {
+  padding: 16px;
+  margin: 8px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.pet-name.data-v-064edc18 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.pet-type.data-v-064edc18 {
+  font-size: 16px;
+  color: #666;
+}
+.actions.data-v-064edc18 {
+  margin-top: 10px;
+}

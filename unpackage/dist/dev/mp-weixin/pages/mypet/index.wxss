@@ -1,0 +1,37 @@
+
+.pet-home.data-v-275b3bc3 {
+  padding: 20px;
+}
+.user-info.data-v-275b3bc3 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.avatar.data-v-275b3bc3 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+.nickname.data-v-275b3bc3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+.login-btn.data-v-275b3bc3 {
+  margin-left: auto;
+}
+.section-title.data-v-275b3bc3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.pet-card.data-v-275b3bc3 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.pet-img.data-v-275b3bc3 {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  margin-right: 10px;
+}

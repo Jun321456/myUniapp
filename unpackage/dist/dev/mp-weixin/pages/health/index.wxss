@@ -1,0 +1,97 @@
+
+.pet-home {
+  background: #f8f9fa;
+  min-height: 100vh;
+  padding-bottom: 40rpx;
+}
+.banner.no-img {
+  width: 100vw;
+  height: 320rpx;
+  background: linear-gradient(90deg, #ffecd2 0%, #fcb69f 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner-title {
+  font-size: 56rpx;
+  font-weight: bold;
+  color: #fff;
+  letter-spacing: 8rpx;
+  text-shadow: 2rpx 4rpx 12rpx #fcb69f;
+}
+.welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30rpx;
+}
+.main-title {
+  font-size: 48rpx;
+  font-weight: bold;
+  color: #333;
+}
+.sub-title {
+  font-size: 28rpx;
+  color: #888;
+  margin-top: 10rpx;
+}
+.pet-list-title,
+.health-title {
+  font-size: 32rpx;
+  font-weight: bold;
+  margin: 40rpx 0 20rpx 30rpx;
+  color: #444;
+}
+.picker {
+  margin: 0 30rpx 20rpx 30rpx;
+  padding: 18rpx 24rpx;
+  background: #fff;
+  border-radius: 12rpx;
+  font-size: 28rpx;
+  color: #333;
+  box-shadow: 0 2rpx 8rpx #eee;
+}
+.health-list {
+  margin: 0 30rpx;
+}
+.health-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24rpx;
+  background: #fff;
+  border-radius: 12rpx;
+  padding: 18rpx 24rpx;
+  box-shadow: 0 2rpx 8rpx #eee;
+}
+.health-label {
+  width: 120rpx;
+  font-size: 28rpx;
+  color: #333;
+}
+.health-input {
+  flex: 1;
+  margin: 0 16rpx;
+  padding: 8rpx 12rpx;
+  border: 1rpx solid #eee;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+  background: #f8f9fa;
+}
+.health-unit {
+  font-size: 24rpx;
+  color: #888;
+}
+.check-btn {
+  margin: 30rpx 30rpx 0 30rpx;
+  background: #ffb199;
+  color: #fff;
+  font-size: 32rpx;
+  border-radius: 12rpx;
+  padding: 18rpx 0;
+}
+.result {
+  margin: 30rpx 30rpx 0 30rpx;
+  font-size: 30rpx;
+  color: #ff7043;
+  text-align: center;
+}

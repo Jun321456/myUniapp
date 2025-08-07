@@ -1,0 +1,27 @@
+
+.comment-list.data-v-6d99ff6e {
+  padding: 10px;
+}
+.comment-item.data-v-6d99ff6e {
+  margin-bottom: 15px;
+}
+.comment-author.data-v-6d99ff6e {
+  font-weight: bold;
+}
+.comment-content.data-v-6d99ff6e {
+  margin: 5px 0;
+}
+.comment-replies.data-v-6d99ff6e {
+  margin-left: 20px;
+}
+.reply-item.data-v-6d99ff6e {
+  margin-bottom: 5px;
+}
+.reply-input.data-v-6d99ff6e {
+  display: flex;
+  align-items: center;
+}
+.reply-input input.data-v-6d99ff6e {
+  flex: 1;
+  margin-right: 5px;
+}

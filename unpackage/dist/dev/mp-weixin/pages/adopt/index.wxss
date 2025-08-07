@@ -1,0 +1,91 @@
+
+.adopt-page.data-v-65579be7 {
+  padding: 24px;
+  background: #f7f8fa;
+  min-height: 100vh;
+}
+.user-header.data-v-65579be7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 32px;
+}
+.avatar.data-v-65579be7 {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 8px #ddd;
+}
+.user-info.data-v-65579be7 {
+  text-align: center;
+}
+.nickname.data-v-65579be7 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #333;
+}
+.subtitle.data-v-65579be7 {
+  font-size: 14px;
+  color: #888;
+  margin-top: 4px;
+}
+.share-list.data-v-65579be7 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.share-card.data-v-65579be7 {
+  background: #fff;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 16px #e0e0e0;
+  transition: box-shadow 0.2s;
+}
+.share-card.data-v-65579be7:hover {
+  box-shadow: 0 8px 24px #ccc;
+}
+.share-text.data-v-65579be7 {
+  font-size: 17px;
+  margin-bottom: 12px;
+  color: #222;
+  display: block;
+}
+.share-img.data-v-65579be7 {
+  width: 100%;
+  max-width: 340px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 14px;
+  background: #eee;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.share-actions.data-v-65579be7 {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+}
+.like-btn.data-v-65579be7,
+.comment-btn.data-v-65579be7,
+.share-btn.data-v-65579be7 {
+  background: #f5f5f5;
+  border: none;
+  border-radius: 20px;
+  padding: 6px 18px;
+  font-size: 15px;
+  color: #666;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.like-btn.data-v-65579be7:hover,
+.comment-btn.data-v-65579be7:hover,
+.share-btn.data-v-65579be7:hover {
+  background: #e0e0e0;
+}
+.liked.data-v-65579be7 {
+  color: #ff9800;
+  font-weight: bold;
+}
